@@ -25,7 +25,8 @@ global.autoreact = false
 global.onlygroup = false
 global.onlypc = false
 global.welcome = true
-global.autoBlock = true
+global.autoBlock = false
+
  
 /*REPLY MESSAGE*/
 global.mess = {
